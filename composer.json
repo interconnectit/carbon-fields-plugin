@@ -10,6 +10,12 @@
             "email": "atanas.angelov.dev@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.interconnectit.com"
+        }
+    ],
     "support": {
         "source": "https://github.com/htmlburger/carbon-fields",
         "docs": "http://carbonfields.net/docs/",

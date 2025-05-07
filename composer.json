@@ -13,7 +13,7 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "https://packages.interconnectit.com"
+            "url": "https://repo.packagist.com/standfirst/"
         }
     ],
     "support": {
